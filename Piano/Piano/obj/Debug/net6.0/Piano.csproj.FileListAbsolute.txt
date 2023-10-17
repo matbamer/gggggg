@@ -1,0 +1,14 @@
+C:\Users\xziva\source\repos\Practise\Piano\Piano\bin\Debug\net6.0\Piano.exe
+C:\Users\xziva\source\repos\Practise\Piano\Piano\bin\Debug\net6.0\Piano.deps.json
+C:\Users\xziva\source\repos\Practise\Piano\Piano\bin\Debug\net6.0\Piano.runtimeconfig.json
+C:\Users\xziva\source\repos\Practise\Piano\Piano\bin\Debug\net6.0\Piano.dll
+C:\Users\xziva\source\repos\Practise\Piano\Piano\bin\Debug\net6.0\Piano.pdb
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfoInputs.cache
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfo.cs
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.csproj.CoreCompileInputs.cache
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.dll
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\refint\Piano.dll
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.pdb
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\Piano.genruntimeconfig.cache
+C:\Users\xziva\source\repos\Practise\Piano\Piano\obj\Debug\net6.0\ref\Piano.dll
